@@ -5,7 +5,7 @@ Welecome to my cybersecurity portfolio! I am passionate about cybersecurity and 
 
 ## About Me
 I am Ore, a Junior Cybersecurity Analyst. With a background in Psychology, I bring both analytical skills and a user-centric mindset to my cybersecurity endeaveors.
-- 👩🏾‍💻 I’m interested in cybsecurity
+- 👩🏾‍💻 I’m interested in Cybersecurity
 - 🌱 I’m currently learning the fundamentals of cybersecurity! 
 - 📌 I’m looking to collaborate on open-source projects, research groups, hackathons, and hands-on experiences!
 - 🔗 Connect with me on LinkedIN 'Oreoluwa Grace Anjorin'
