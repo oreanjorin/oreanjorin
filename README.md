@@ -6,10 +6,10 @@ Welecome to my cybersecurity portfolio! I am passionate about cybersecurity and 
 ## About Me
 I am Ore, a Junior Cybersecurity Analyst. With a background in Psychology, I bring both analytical skills and a user-centric mindset to my cybersecurity endeaveors.
 - 👩🏾‍💻 I’m interested in Cybersecurity
-- 🌱 I’m currently learning the fundamentals of cybersecurity! 
+- 🌱 I’m currently gaining the fundamentals of cybersecurity! 
 - 📌 I’m looking to collaborate on open-source projects, research groups, hackathons, and hands-on experiences!
 - 🔗 Connect with me on LinkedIN 'Oreoluwa Grace Anjorin'
-- 🎀 Fun fact: I am a part-time Graphic Designer - OGX Designs
+- 🎀 Fun fact: I like to design things Graphic Designer - OGX Designs
 
 ## Certifications/Training
 - Google Cybersecurity Professional Certificate, Google/Coursera, February 2024 - March 2024
