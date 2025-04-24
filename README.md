@@ -16,7 +16,6 @@ I am Ore, a Junior Cybersecurity Analyst. With a background in Psychology, I bri
 - CompTIA PenTest+ Penetration Analyst Certification
 - ISC2 Certified in Cybersecurity
 - Google Cybersecurity Professional Certificate, Google/Coursera
-- Google Cybersecurity Professional Certificate, Google/Coursera, February 2024 - March 2024
 
 ## Personal Statement
 As I am in cybersecurity, and committed to continuously learning and developing my skills to contribute effectively to the industry. I am particularly interested in . I believe that my background and experiences will complement my journey in cybersecurity and enable me to make valuable contributions to the field.
