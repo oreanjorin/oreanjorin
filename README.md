@@ -17,6 +17,25 @@ I am Ore, a Junior Cybersecurity Analyst. With a background in Psychology, I bri
 - ISC2 Certified in Cybersecurity
 - Google Cybersecurity Professional Certificate, Google/Coursera
 
+## Projects
+## Featured Cybersecurity Projects
+
+Here are some of the projects I completed during my Master’s program:
+
+### 1. [Secure Network Design – Merging Two Companies](https://github.com/yourusername/Secure-Network-Design)
+Designed a secure network for two merging healthcare companies with HIPAA-compliant segmentation and firewall integration.
+
+### 2. [Penetration Testing Evaluation](https://github.com/yourusername/Penetration-Testing-Evaluation)
+Evaluated and improved a pen test plan for a healthcare organization by identifying scope gaps and adding compliance safeguards.
+
+### 3. [Security Operations – Incident Response Simulation](https://github.com/yourusername/Security-Operations-Incident-Response)
+Simulated incident response for a malicious traffic event, with log analysis, containment, and recommendations.
+
+### 4. [Governance, Risk & Compliance – Security Gap Assessment](https://github.com/yourusername/Governance-Risk-Compliance)
+Conducted a NIST-based gap analysis and created a PCI-DSS remediation strategy for a medical center.
+
+### 5. [Cloud Security – Secure Azure Deployment](https://github.com/yourusername/Cloud-Security-Azure)
+Configured secure Azure infrastructure, implemented RBAC, and aligned deployment with cloud security best practices
 ## Personal Statement
 As I am in cybersecurity, and committed to continuously learning and developing my skills to contribute effectively to the industry. I am particularly interested in . I believe that my background and experiences will complement my journey in cybersecurity and enable me to make valuable contributions to the field.
 
