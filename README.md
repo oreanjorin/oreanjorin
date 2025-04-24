@@ -12,6 +12,10 @@ I am Ore, a Junior Cybersecurity Analyst. With a background in Psychology, I bri
 - 🎀 Fun fact: I like to design things Graphic Designer - OGX Designs
 
 ## Certifications/Training
+- CompTIA CySA+ Cybersecurity Analyst Certification
+- CompTIA PenTest+ Penetration Analyst Certification
+- ISC2 Certified in Cybersecurity
+- Google Cybersecurity Professional Certificate, Google/Coursera
 - Google Cybersecurity Professional Certificate, Google/Coursera, February 2024 - March 2024
 
 ## Personal Statement
