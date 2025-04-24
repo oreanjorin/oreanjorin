@@ -20,7 +20,7 @@ I am Ore, a Junior Cybersecurity Analyst. With a background in Psychology, I bri
 ## Projects
 ## Featured Cybersecurity Projects
 
-Here are some of the projects I completed during my Master’s program:
+Here are some of the projects I completed:
 
 ### 1. [Secure Network Design – Merging Two Companies](https://github.com/yourusername/Secure-Network-Design)
 Designed a secure network for two merging healthcare companies with HIPAA-compliant segmentation and firewall integration.
